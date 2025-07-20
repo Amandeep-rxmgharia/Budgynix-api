@@ -1,0 +1,26 @@
+{
+  "name": "budgynix-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amandeep-rxmgharia/Budgynix-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amandeep-rxmgharia/Budgynix-api/issues"
+  },
+  "homepage": "https://github.com/Amandeep-rxmgharia/Budgynix-api#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
